@@ -1,0 +1,1 @@
+A simple boilerplate to run a web application with continuous integration using docker, travis-ci and aws's Elastic Beanstalk
